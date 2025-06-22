@@ -9,8 +9,6 @@ venv/
 .venv/
 
 # Output video and generated data
-*.mp4
-*.avi
 output_yolo/
 output_json_yolo/
 
